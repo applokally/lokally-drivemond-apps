@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721293327558",
+    "project_id": "forward-chess-455110-f1",
+    "storage_bucket": "forward-chess-455110-f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721293327558:android:6cf512dbfcffa7579e6bc7",
+        "android_client_info": {
+          "package_name": "com.lokally.passenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUgjFWSUK35fhFT04oKE860q4l_S0y1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

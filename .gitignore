@@ -1,0 +1,22 @@
+# --- Flutter / Dart ---
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- OS ---
+.DS_Store
+
+# --- Workspace / extração ---
+_work/
+zips/
+*.zip
+__MACOSX/
+
+# --- Logs ---
+*.log
